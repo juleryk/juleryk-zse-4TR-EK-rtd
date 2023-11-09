@@ -1,15 +1,24 @@
-Przykładowy projekt
-===================================
-**Lorem Ipsum** is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Nagłowek pierwszego stopnia
+===========================
 
-.. note::
+Nagłowek drugiego stopnia
+-------------------------
 
-   Notka
+Nagłowek trzeciego stopnia
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-TOC
---------
+Nagłowek czwartego stopnia 
+**************************
 
-.. toctree::
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus auctor, quam luctus hendrerit venenatis, arcu nulla venenatis nisl, id condimentum mi risus sit amet ligula. Vivamus mattis felis ut tortor ullamcorper feugiat. Nam eu gravida felis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur auctor purus turpis, non faucibus ex sollicitudin vitae. Maecenas ac mi sit amet tellus egestas aliquam. Maecenas ultricies non ante at porttitor. Proin et arcu a arcu semper porttitor vitae ac augue. Praesent scelerisque pretium justo, eget posuere purus suscipit ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; 
 
-   usage
-   api
+.. note::  Lorem ipsum dolor sit amet
+.. tip::  Lorem ipsum dolor sit amet
+
+caption:  Lorem ipsum dolor sit amet
+
+::
+num1 = 15
+num2 = 12
+sum = num1 + num2
+print("Sum of", num1, "and", num2 , "is", sum)
