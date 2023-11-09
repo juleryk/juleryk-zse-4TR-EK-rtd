@@ -15,7 +15,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus auctor, quam 
 .. note::  Lorem ipsum dolor sit amet
 .. tip::  Lorem ipsum dolor sit amet
 
-.. caption:  Lorem ipsum dolor sit amet
+.. caption::  Lorem ipsum dolor sit amet
 
 .. code block:: python
 num1 = 15
