@@ -6,7 +6,7 @@ Przykładowy projekt
 
    Notka
 
-Contents
+TOC
 --------
 
 .. toctree::
