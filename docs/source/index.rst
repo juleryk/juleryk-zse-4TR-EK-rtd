@@ -17,7 +17,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus auctor, quam 
 
 .. caption::  Lorem ipsum dolor sit amet
 
-.. code block:: python
+.. code-block:: python
 num1 = 15
 num2 = 12
 sum = num1 + num2
