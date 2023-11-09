@@ -1,4 +1,4 @@
-API
+Druga podstrona
 ===
 
 .. autosummary::
