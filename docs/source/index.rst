@@ -15,7 +15,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus auctor, quam 
 .. note::  Lorem ipsum dolor sit amet
 .. tip::  Lorem ipsum dolor sit amet
 
-.. caption::  Lorem ipsum dolor sit amet
+.. caption::  
+Lorem ipsum dolor sit amet
 
 .. code-block:: python
 num1 = 15
@@ -23,3 +24,15 @@ num2 = 12
 sum = num1 + num2
 print("Sum of", num1, "and", num2 , "is", sum)
 
+
+Nagłowek trzeciego stopnia_.
+
+.. _Link: https://edu.gplweb.pl/?svc=courses&id=tida&lesson=14&class=4tr&load=24
+
+#. Pierwszy punkt
+#. Drugi punkt
+#. Trzeci punkt
+
+- Pierwszy punkt
+- Drugi punkt
+- Trzeci punkt
