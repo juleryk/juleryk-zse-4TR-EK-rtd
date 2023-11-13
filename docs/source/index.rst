@@ -27,7 +27,7 @@ print("Sum of", num1, "and", num2 , "is", sum)
 
 Nagłowek trzeciego stopnia_.
 
-.. _Link: https://edu.gplweb.pl/?svc=courses&id=tida&lesson=14&class=4tr&load=24
+.. link:: https://edu.gplweb.pl/?svc=courses&id=tida&lesson=14&class=4tr&load=24
 
 #. Pierwszy punkt
 #. Drugi punkt
