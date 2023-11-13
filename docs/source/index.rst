@@ -36,3 +36,7 @@ Nagłowek trzeciego stopnia_.
 - Pierwszy punkt
 - Drugi punkt
 - Trzeci punkt
+
+.. image:: https://lastfm.freetls.fastly.net/i/u/770x0/fdac220dc7a42ed74757c49904c5eb49.jpg
+   :target: https://last.fm
+   :alt: Opis obrazka
