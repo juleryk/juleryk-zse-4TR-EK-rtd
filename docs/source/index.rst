@@ -27,7 +27,8 @@ print("Sum of", num1, "and", num2 , "is", sum)
 
 Nagłowek trzeciego stopnia_.
 
-:doc: "Tekst linku <https://edu.gplweb.pl/?svc=courses&id=tida&lesson=14&class=4tr&load=24>"
+:doc: `Tekst linku <https://edu.gplweb.pl/?svc=courses&id=tida&lesson=14&class=4tr&load=24>`_
+
 
 #. Pierwszy punkt
 #. Drugi punkt
