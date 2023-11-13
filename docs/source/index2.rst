@@ -22,10 +22,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus auctor, quam 
 Lorem ipsum dolor sit amet
 
 .. code-block:: python
-num1 = 15
-num2 = 12
-sum = num1 + num2
-print("Sum of", num1, "and", num2 , "is", sum)
+
+   num1 = 15
+   num2 = 12
+   sum = num1 + num2
+   print("Sum of", num1, "and", num2, "is", sum)
+
 
 
 
