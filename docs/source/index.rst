@@ -7,8 +7,8 @@ Nagłowek drugiego stopnia
 Nagłowek trzeciego stopnia
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Nagłowek czwartego stopnia 
-**************************
+=== Nagłowek czwartego stopnia ===
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus auctor, quam luctus hendrerit venenatis, arcu nulla venenatis nisl, id condimentum mi risus sit amet ligula. Vivamus mattis felis ut tortor ullamcorper feugiat. Nam eu gravida felis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur auctor purus turpis, non faucibus ex sollicitudin vitae. Maecenas ac mi sit amet tellus egestas aliquam. Maecenas ultricies non ante at porttitor. Proin et arcu a arcu semper porttitor vitae ac augue. Praesent scelerisque pretium justo, eget posuere purus suscipit ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; 
 
@@ -25,7 +25,7 @@ sum = num1 + num2
 print("Sum of", num1, "and", num2 , "is", sum)
 
 
-Nagłowek trzeciego stopnia_.
+Tekst odnośnika do nagłówka: :ref:`Tekst linku <id-naglowka>`
 
 :doc: `Tekst linku <https://edu.gplweb.pl/?svc=courses&id=tida&lesson=14&class=4tr&load=24>`_
 
