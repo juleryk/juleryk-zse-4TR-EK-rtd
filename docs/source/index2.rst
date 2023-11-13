@@ -50,11 +50,15 @@ Tekst odnośnika do nagłówka: :ref:`Tekst linku <naglowek-trzeciego-stopnia>`
    :target: https://last.fm
    :alt: Opis obrazka
 
+.. list-table::
+   :widths: 20 30
+   :header-rows: 1
 
-=================  =====================
-Nagłówek Kolumny 1  Nagłówek Kolumny 2
-=================  =====================
-Wiersz 1, kolumna 1  Wiersz 1, kolumna 2
-Wiersz 2, kolumna 1  Wiersz 2, kolumna 2
-=================  =====================
+   * - Nagłówek Kolumny 1
+     - Nagłówek Kolumny 2
+   * - Wiersz 1, kolumna 1
+     - Wiersz 1, kolumna 2
+   * - Wiersz 2, kolumna 1
+     - Wiersz 2, kolumna 2
+
 
