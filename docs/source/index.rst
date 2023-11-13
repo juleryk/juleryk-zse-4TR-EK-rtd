@@ -5,7 +5,7 @@ Nagłowek drugiego stopnia
 -------------------------
 
 Nagłowek trzeciego stopnia
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+###########################
 
 Nagłówek czwartego poziomu
 ^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -28,7 +28,12 @@ sum = num1 + num2
 print("Sum of", num1, "and", num2 , "is", sum)
 
 
-Tekst odnośnika do nagłówka: :ref:`Tekst linku <id-naglowka>`
+
+
+
+Tekst odnośnika do nagłówka: :ref:`Tekst linku <naglowek-trzeciego-stopnia>`
+
+
 
 :doc: `Tekst linku <https://edu.gplweb.pl/?svc=courses&id=tida&lesson=14&class=4tr&load=24>`_
 
