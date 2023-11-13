@@ -51,10 +51,10 @@ Tekst odnośnika do nagłówka: :ref:`Tekst linku <naglowek-trzeciego-stopnia>`
    :alt: Opis obrazka
 
 
-=================  ===============
-Kolumna 1          Kolumna 2
-=================  ===============
+=================  =====================
+Nagłówek Kolumny 1  Nagłówek Kolumny 2
+=================  =====================
 Wiersz 1, kolumna 1  Wiersz 1, kolumna 2
 Wiersz 2, kolumna 1  Wiersz 2, kolumna 2
-=================  ===============
+=================  =====================
 
