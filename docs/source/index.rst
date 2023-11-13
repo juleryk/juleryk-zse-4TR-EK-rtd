@@ -7,7 +7,9 @@ Nagłowek drugiego stopnia
 Nagłowek trzeciego stopnia
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-==== Nagłówek czwartego poziomu ====
+Nagłówek czwartego poziomu
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
 
 
 
