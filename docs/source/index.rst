@@ -49,3 +49,12 @@ Tekst odnośnika do nagłówka: :ref:`Tekst linku <naglowek-trzeciego-stopnia>`
 .. image:: https://lastfm.freetls.fastly.net/i/u/770x0/fdac220dc7a42ed74757c49904c5eb49.jpg
    :target: https://last.fm
    :alt: Opis obrazka
+
+
+=================  ===============
+Kolumna 1          Kolumna 2
+=================  ===============
+Wiersz 1, kolumna 1  Wiersz 1, kolumna 2
+Wiersz 2, kolumna 1  Wiersz 2, kolumna 2
+=================  ===============
+
